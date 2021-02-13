@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Analyze</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name="calculate">Calculate</string>
+    <string name="result">Result</string>
+</resources>
